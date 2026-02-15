@@ -1,0 +1,134 @@
+<!-- 
+                                                 /////// Hyuns Dojo Simple Duelist Profile ///////
+                                                                   -by @Phayros
+                                                                
+                                            To use images, you need to upload the images you want to use
+                                            to an image hosting site, get its link and use where you need
+                                          uploading it to your character profile in Toy House works very well
+-->
+
+
+
+<div style="background-color: white; color: rgb(61, 8, 8);">
+    <p style="text-align:center; font-size: 50px;"><b>Duelist Name</b></p>
+
+    <!-- Banner -->
+    <!-- Change the link bellow to the link of the image you want to use as your banner -->
+    <!-- The recomended size is 500x200 but you can use any size with the same ratio with no problem-->
+
+    <div style="width: 500px; margin: auto;">
+        <img src="
+        
+        https://f2.toyhou.se/file/f2-toyhou-se/images/115139013_vKRkE6n3yJh1UOQ.png
+        
+        " style="margin-top: 10px;">
+    </div>
+
+    <hr>
+
+    <!-- Weapons -->
+    <p style="font-size: 25px;"><b>WEAPONS</b></p>
+    <!-- List of Weapons -->
+    <!-- Copy and paste more lines to add more weapons or delete any if your character doesn't have weapons -->
+    <!-- <p><b>Weapon X: </b>Description of weapon X</p> -->
+
+    <p><b>Weapon 1: </b>Description of weapon 1</p>
+    <p><b>Weapon 2: </b>Description of weapon 2</p>
+    
+    <hr>
+
+    <!-- Powers -->
+    <p style="font-size: 25px;"><b>POWERS</b></p>
+    <!-- List of Powers -->
+    <!-- Copy and paste more lines to add more powers or delete any if your character doesn't have powers -->
+    <!-- <p><b>Power X: </b>Description of power X</p> -->
+
+    <p><b>Power 1: </b>Description of power 1</p>
+    <p><b>Power 2: </b>Description of power 2</p>    
+
+    <hr>
+
+    <!-- Strengths -->
+
+    <p style="font-size: 25px;"><b>STRENGTHS</b></p>
+    <!-- List of Strengths -->
+    <!-- Copy and paste more lines to add more Strenghts -->
+    <!-- <p><b>Strength X: </b>Description of strenght X</p> -->
+
+    <p><b>Strength 1: </b>Description of strenght 1</p>
+    <p><b>Strength 2: </b>Description of strenght 2</p>
+
+    <hr>
+
+    <!-- Weaknesses -->
+    <p style="font-size: 25px;"><b>WEAKNESSES</b></p>
+    <!-- List of Strengths -->
+    <!-- Copy and paste more lines to add more Weaknesses -->
+    <!-- <p><b>Weakness X: </b>Description of weakness X</p> -->
+
+    <p><b>Weakness 1: </b>Description of weakness 1</p>
+    <p><b>Weakness 2: </b>Description of weakness 2</p>
+
+    <hr>
+
+    <!-- Personality -->
+    <p style="font-size: 25px;"><b>PERSONALITY</b></p>
+    <!-- Use this section to detail your character personality traits -->
+    <!-- Use new sets of <p></p> to create new paragraphs-->
+
+    <p>First paragraph</p>
+    <p>Second paragraph</p>
+    
+    <hr>
+
+    <!-- Character Bio -->
+    <p style="font-size: 25px;"><b>CHARACTER BIO</b></p>
+    <!-- Use this section to detail your character history -->
+    <!-- Use new sets of <p></p> to create new paragraphs-->
+
+    <p>First paragraph</p>
+    <p>Second paragraph</p>
+
+    <hr>
+
+    <!-- Animated demo -->
+    <!-- Change the link bellow to the link of your animated demo-->
+    <p style="font-size: 25px;"><a href="
+        
+        https://youtu.be/
+        
+        "><b>ANIMATED DEMO</b></a></p>
+
+    <hr>
+
+    <!-- References -->
+    <!-- Change the link bellow to the link of your duelist galery on toyhouse-->
+    <p style="font-size: 25px;"><a href="
+        
+        https://toyhou.se/37757927.simple-duelist-profile/gallery
+        
+        "><b>REFERENCES</b></a></p>
+    
+    <img src="
+        
+        https://f2.toyhou.se/file/f2-toyhou-se/images/89111045_VtucBVz1shwZxdA.png
+        
+        " style="margin-top: 10px; max-height: 30vw;">
+    <img src="
+        
+        https://f2.toyhou.se/file/f2-toyhou-se/images/89272295_HhIGg0ugubC5DAl.png
+        
+        " style="margin-top: 10px; max-height: 30vw;">
+
+    <!-- To add more images copy and paste the following code and add change [image link] to the link of the image you want to use
+
+    <img src="
+        
+        [image link]
+        
+        " style="margin-top: 10px; max-height: 30vw;">
+
+    -->
+    <hr>
+
+</div>
